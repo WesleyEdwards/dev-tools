@@ -1,6 +1,5 @@
 import { FC, ReactNode, useState } from "react";
 import "./App.css";
-import image from "./assets/photographer.png";
 import { getImageThumbnail } from "./thumbs";
 
 declare global {
